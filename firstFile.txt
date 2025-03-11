@@ -1,5 +1,5 @@
-Línea 1
-Línea 2
+Primera línea 1
+Segunda línea 2
 Línea 3
 Línea 4
 Línea 5
