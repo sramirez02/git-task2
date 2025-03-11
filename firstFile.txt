@@ -4,7 +4,7 @@ Línea 3
 Línea 4
 Actualizar línea 5
 Actualizar línea 6
-Línea 7
-Línea 8
+Cambiar línea 7
+Cambiar línea 8
 Línea número 9
 Línea número 10
